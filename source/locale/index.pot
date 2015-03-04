@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, kawasima & contributors
+# This file is distributed under the same license as the JobStreamer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JobStreamer 0.1.0-SNAPSHOT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-05 00:34+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/index.rst:7
+# 538d70c67c5e4ab78ebb306e06c30553
+msgid "Welcome to JobStreamer's documentation!"
+msgstr ""
+
+#: ../../source/index.rst:9
+# 574cd71bdaf744e59acdf6a421f0aa3d
+msgid "Contents:"
+msgstr ""
+
+#: ../../source/index.rst:17
+# cb72dead0ce04c659e56793af9a7334e
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:19
+# 9eeb4cf49eb741ffb58d72bbea699c70
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:20
+# 0962f8219bb4461a961595c3b82bd3ef
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:21
+# a031d2f7a4e8428a8313dfdfe7b0172d
+msgid ":ref:`search`"
+msgstr ""
+
